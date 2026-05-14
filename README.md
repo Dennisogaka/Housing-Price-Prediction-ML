@@ -27,6 +27,15 @@ The steps taken:
 
 **4. Diagnostics:** Performed **_Residual Analysis_** and _**Feature Importance**_ mapping.
 
+### Residual Analysis
+<img width="1408" height="683" alt="image" src="https://github.com/user-attachments/assets/b5cbbc6f-b71e-4a67-9b37-16ad508cb416" />
+
+
+### Feature Importance
+
+<img width="687" height="493" alt="image" src="https://github.com/user-attachments/assets/7ed7a4cb-c5b9-4fe2-8522-ebeadf889390" />
+
+
 ## Results
 After rigorous testing, **XGBoost** emerged as the **superior model**.
 
